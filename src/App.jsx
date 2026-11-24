@@ -14,7 +14,7 @@ function App() {
         <p className="hero-tag">WELCOME TO MY PORTFOLIO</p>
 
         <h1>
-          Hi, I'm <span>Gopika</span>
+          Hi, I'm <span>Gopika PS</span>
         </h1>
 
         <h2>
